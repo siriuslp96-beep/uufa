@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12884.jpg?ver=86618" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",##### 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ #####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=483976&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?20070" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: V SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=483974&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14021.jpg?85443" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: V SPORT+ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544254&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?38736" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ELEVEN ᴾᴸ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1545807&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?38736" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ELEVEN SPORTS ᴾᴸ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544301&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13778.jpg?ver=14319" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ELEVEN SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=483973&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12426.png?39125" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: YES SPORT 5 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=483972&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?52664" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: TNT SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544247&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?52664" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: TNT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ+ (LIVE-EVENT)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544246&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?72519" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY SPORTS DARTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544244&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?33420" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544243&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6454.png?92315" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544240&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?22930" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ (LIVE-EVENT)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544238&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?51579" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544239&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14436.jpg?30348" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1556135&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT ONLY)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1697287&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1556138&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8134.png?63484" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: LA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=996545&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11285.jpg?11557" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: LA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=861062&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11328.jpg?8308" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: CANAL DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=861060&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11333.jpg?59916" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ODISEA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=861059&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1317.png?15611" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: IRIB ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=507546&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?75585" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: BLOOMBERG+ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=484449&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12211.jpg?74659" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: HOME ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=484462&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11333.jpg?87701" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ODISEA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544282&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12189.jpg?54479" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: QVC ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544268&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11328.jpg?41126" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544267&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11327.png?12169" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: COCINA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544266&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5995.png?8563" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: MUSEUM ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544263&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14488.png?79465" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SLOW ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544283&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11328.jpg?31328" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: DECASA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544281&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544269&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544270&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544271&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 4 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544272&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 5 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544273&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544274&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 7 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544275&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 8 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544276&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14419.jpg?53157" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SKY PRIMAFILA 9 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544277&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6088.jpg?8230" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: LOVE NATURE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544262&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6235.png?33467" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: TF1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544258&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1384.png?94877" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ZIGGO SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544251&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: ESPN ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544250&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6113.png?24135" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: SPORTSNET 360 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1544249&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| HUB PREMIER PPV",### HUB PREMIER PPV ###
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620788&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620787&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620786&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 2 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620785&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 3 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620784&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 4 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620783&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 5 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620782&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 6 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620781&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 7 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620780&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 8 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620779&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 9 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620778&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 10 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620777&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="UK| HUB PREMIER PPV",HUB PREMIER 11 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=620776&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| MONO MAX PPV",##### MONO MAX PPV #####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537969&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 1
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537968&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 2
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537967&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 3
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537966&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 4
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537965&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 5
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537964&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 6
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537963&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 7
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537962&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 8
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537961&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 9
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537960&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 10
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537959&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 11
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537958&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 12
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537957&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 13
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537956&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 14
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537955&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 15
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537954&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 16
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537953&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 17
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537952&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 18
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537951&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 19
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537950&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 20
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1537949&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 21
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549096&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 22
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549095&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 23
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549094&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 24
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549093&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 25
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549092&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 26
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549091&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 27
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549090&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 28
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549089&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 29
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549088&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 30
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1549087&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 31
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1692566&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" group-title="UK| MONO MAX PPV",UK: MONO MAX EVENT 32
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1692565&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 1
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902358&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 2
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902357&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 3
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902356&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 4
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902355&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 5
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902354&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 6
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902353&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 7
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902352&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 8
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902351&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 9
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902350&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 10
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902349&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 11
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902348&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 12
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902347&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 13
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902346&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 14
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902345&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 15
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902344&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 16
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902343&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 17
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902342&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 18
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902341&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 19
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902340&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 20
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=1902339&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 21
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106845&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 22
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106844&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 23
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106843&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 24
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106842&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 25
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106841&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 26
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106840&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 27
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106839&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 28
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106838&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 29
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106837&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 30
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106836&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 31
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106835&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png" group-title="UK| MONOMAX PPV",MonoMax | Event 32
+http://vpn.connectra1.net:80/play/live.php?mac=00:1B:79:3E:2B:A9&stream=2106834&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?15982" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527641&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?15982" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527640&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?92793" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527639&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?92793" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527638&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?89614" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527637&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?89614" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527636&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11978.png?85148" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527635&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11978.png?85148" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527634&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?49107" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527633&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?49107" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527632&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3130.jpg?96961" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527631&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3130.jpg?96961" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527630&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527629&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527628&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12244.jpg?98047" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527627&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12244.jpg?98047" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527626&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11981.jpg?42048" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527625&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11981.jpg?42048" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527624&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12243.jpg?91874" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527623&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12243.jpg?91874" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527622&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?14409" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527621&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?14409" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527620&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11103.png?39144" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527619&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11103.png?39144" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527618&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527617&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527616&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527615&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527614&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527613&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527612&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527611&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1527610&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290338&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290337&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290336&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290335&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290334&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290333&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290332&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290331&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290330&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290329&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ʰᵉᵛᶜ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290328&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290327&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290326&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290325&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290324&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290323&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290322&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290321&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290320&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:34:25:AA&stream=1290319&extension=ts
+
